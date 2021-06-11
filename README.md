@@ -1,2 +1,4 @@
-# Campaign Success Prediction
+# Kickstarter Campaign Success and USD pledged amount Prediction
  
+Kickstarter is an American public corporation that maintains a global crowdfunding platform aimed at helping people get their ideas funded while building a community of fans to support their ideas. The project creators choose a deadline and a minimum funding goal and if the goal is not met by the deadline no funds are collected.
+The aim of this project was to construct two supervised learning model to predict the pledged amount for the project and whether the project will be successful or not on the Kickstarter platform. The unsupervised learning model (k-means clustering) was also applied to understand the characteristics of each projects on Kickstarter platform.More information regarding the company can be found here:https://www.kickstarter.com/
